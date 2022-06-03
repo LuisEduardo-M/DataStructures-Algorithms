@@ -21,7 +21,6 @@ func hasPairWithSum(arr []int, sum int) bool {
 
 // Sets in Go: https://www.sohamkamani.com/golang/sets/
 
-// The animalSet type is a type alias of `map[string]struct{}`
 type set map[int]struct{}
 
 // Adds an integer to the set
