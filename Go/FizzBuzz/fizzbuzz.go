@@ -1,5 +1,8 @@
 package FizzBuzz
 
+// LeetCode - 412. FizzBuzz
+// Time Complexity O(n)
+
 import "fmt"
 
 func fizzBuzz(n int) []string {
