@@ -2,7 +2,7 @@ package Google_Video
 
 // Video: https://www.youtube.com/watch?v=XKu_SEDAykw
 
-/* First Solution
+/* First Solution - Brute force
 func hasPairWithSum(arr []int, sum int) bool {
 	for i := 0; i < len(arr)-1; i++ {
 		for j := i + 1; j < len(arr); j++ {
